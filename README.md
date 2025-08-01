@@ -1,6 +1,6 @@
 👋 Hi, I'm Shafail Siddiqha
 
-🎓 A final-year passionate Computer Science student turning ideas into impact  
+🎓 A passionate Computer Science graduate turning ideas into impact  
 💻 Skilled in Java, Python, DSA, Full Stack, and AI  
 🌱 Always curious, always building
 
