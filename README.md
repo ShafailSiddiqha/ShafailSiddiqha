@@ -15,7 +15,7 @@ It uses deep learning to identify cancer type and stage from mammograms and by e
 This real-time outreach makes the project stand out — it’s not just about detection, but about increasing awareness and access.  
 It reflects my passion for building tech that creates real-world impact.
 
-# 💻SpeakStyle – AI-Powered Personal Communication Clone
+# 💻SpeakStyle – AI-Powered Chat Bot
 One of my most innovative projects is *SpeakStyle*, an AI chatbot that learns and mimics any person's unique communication style using the MERN stack and Python-based NLP. 
 I didn't just build a basic chatbot, but developed a full-stack system where users can input text samples, and the AI analyzes their tone, vocabulary, and speech patterns to create an authentic digital clone
 It uses natural language processing models to capture individual speaking styles and a React-based interface for seamless interaction, with MongoDB storing conversation data and Express/Node.js handling the backend logic.
